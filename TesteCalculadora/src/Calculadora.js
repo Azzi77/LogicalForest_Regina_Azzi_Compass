@@ -25,9 +25,11 @@ export default class Calculadora{
       static potencia (a,b){
         return Math.pow (a,b)
       }
-         
-    
+
+      // Transformar a temperatura de graus Fahrenheit em graus Celsius
+
+     static temperatura (f) {  // F = Fahrenheit 
+      return  (f-32)/1.8
+
     }
-
-
-
+}
