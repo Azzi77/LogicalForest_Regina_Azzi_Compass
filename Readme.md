@@ -2,7 +2,7 @@
 
 ## Apresentação: 
 
-Este repositório foi criado para colocar os estudos praticaDo duRante a Sprint 4 do programa de estágio da empresa Compassa.uol, 
+Este repositório foi criado para colocar os estudos praticado durante a Sprint 4 do programa de estágio da empresa Compassa.uol, 
 durante esta sprint estudamos:
 
 - Sistema GIT para versionamento de arquivos.
@@ -58,12 +58,14 @@ Esse repositório foi criado para fins de estudos.
 •	https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass
 
 ### License:
-  https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass/blob/main/LICENSE
+ https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass/blob/main/LICENSE
 
 ### Créditos:
 - https://github.com/glaucia86
 - https://developer.mozilla.org/pt-BR/
-- Equipe da Bolsa Compass, em especial João e Vinicius
+- Equipe da Bolsa Compass
+- João Ricardo S. da Silva
+- Vinicius Alexandre P. de Lima
 
 
 
