@@ -1,7 +1,10 @@
-# Título do Projeto: Calculadora
+# Projeto Calculadora
 
 ## Apresentação: 
-Durante esta sprint estudamos:
+
+Estudos e projeto desenvolvindo durante a Sprint 4 do programa de Bolsa da empresa Compassa.uol, 
+durante esta sprint estudamos:
+
 - Sistema GIT para versionamento de arquivos.
 - Plataforma e ferramentas GitHub.
 - Linguagem de programação Javascript.
@@ -26,29 +29,29 @@ Organizei os estudos por pastas onde:
 ### Instalação:
 - Para execução do projeto é necessario seguir os itens listado no pré-requisitos
 
-### Execução dos testes
+### Execução dos testes:
 Para executar os teste basta executar o comando abaixo dentro da pasta
 - npm test ( para executar todos os testes dentro da pasta)
 - É possivel executar o teste de apenas um escopo do projeto usando o
-it.only 
+- it.only 
 
-### Deployment
+### Deployment:
 - git init para criar o repositorio
 - git add (nome do arquivo)
 - git commit -m “mensagem do commit” (exemplo “primeiro commit”
 - git commit -M main (para renomear de master para main)
 - git remote add origin (colar endereço do repositorio do GitHub
 
-### Técnologias utilizadas
+### Técnologias utilizadas:
 - Node.Js
 - Mocha.Js
 - Chai.Js
 - Visual Studio Code
 
-### Contribuição
-Esse repositorio e para fins de estudo não é necessário fazer nenhuma contribuição.
+### Contribuição:
+Esse repositorio foi criado para fins de estudos.
 
-### Autores
+### Autores:
 •	https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass
 
 ### License:
