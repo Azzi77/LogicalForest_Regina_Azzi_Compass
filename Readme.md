@@ -1,8 +1,8 @@
-# Projeto Calculadora
+# Projeto  Sprint 4 Calculadora
 
 ## Apresentação: 
 
-Estudos e projeto desenvolvindo durante a Sprint 4 do programa de Bolsa da empresa Compassa.uol, 
+Este repositório foi criado para colocar os estudos praticando duante a Sprint 4 do programa de Bolsa da empresa Compassa.uol, 
 durante esta sprint estudamos:
 
 - Sistema GIT para versionamento de arquivos.
@@ -13,6 +13,7 @@ durante esta sprint estudamos:
 - Bibliotecas como Mocha e Chai
 
 Organizei os estudos por pastas onde:
+
 - Exercicios Javascript estão alguns exercicios desenvolvido durante o curso de Javascript 
 - javascript-koans-master estão os teste de refatoração de testes automatizados
 - MochaChai estão os exercicios feitos durante as aulas de Mocha e Chai
@@ -41,6 +42,8 @@ Para executar os teste basta executar o comando abaixo dentro da pasta
 - git commit -m “mensagem do commit” (exemplo “primeiro commit”
 - git commit -M main (para renomear de master para main)
 - git remote add origin (colar endereço do repositorio do GitHub
+- git checkout -b <nome da branch> (para criação de branch)
+-git merge <nome da branch> (para enviar para branch principal)
 
 ### Técnologias utilizadas:
 - Node.Js
@@ -49,7 +52,7 @@ Para executar os teste basta executar o comando abaixo dentro da pasta
 - Visual Studio Code
 
 ### Contribuição:
-Esse repositorio foi criado para fins de estudos.
+Esse repositório foi criado para fins de estudos.
 
 ### Autores:
 •	https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass
@@ -60,6 +63,6 @@ Esse repositorio foi criado para fins de estudos.
 - https://github.com/glaucia86
 - https://developer.mozilla.org/pt-BR/
 - Equipe da Bolsa Compass, em especial João e Vinicius
-- Leonardo
+
 
 
