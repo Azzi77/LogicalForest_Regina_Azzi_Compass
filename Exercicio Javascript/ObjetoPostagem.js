@@ -2,14 +2,14 @@
 // titulo,mensagem,autor,vizualizaçoes, comentarios (autor,mensagem) 
 
 
-let postagem ={
-    titulo:"Como voce esta?",
+let postagem = {
+    titulo: "Como voce esta?",
     mensagem: "Bem",
-    autor:"Maria",
+    autor: "Maria",
     visualizacoes: 10,
     comentarios: [
-        { autor: "a", mensagem: "b"},
-        { autor: "a", mensagem: "b"}
+        { autor: "a", mensagem: "b" },
+        { autor: "a", mensagem: "b" }
 
     ],
     estaAoVivo: true

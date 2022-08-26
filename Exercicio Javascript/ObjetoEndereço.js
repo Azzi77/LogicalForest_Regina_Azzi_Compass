@@ -8,8 +8,8 @@ let endereco = {
     CEP: "17064-150",
 
 };
-function exibirEndereço (endereco){
+function exibirEndereço(endereco) {
     for (let chave in endereco)
-    console.log (chave, endereco [chave]);
+        console.log(chave, endereco[chave]);
 }
-exibirEndereço (endereco);
+exibirEndereço(endereco);
