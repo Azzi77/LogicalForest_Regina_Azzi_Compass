@@ -48,7 +48,7 @@ it.only
 ### Contribuição
 Esse repositorio e para fins de estudo não é necessário fazer nenhuma contribuição.
 
-###Autores
+### Autores
 •	https://github.com/Azzi77/LogicalForest_Regina_Azzi_Compass
 
 ### License:
