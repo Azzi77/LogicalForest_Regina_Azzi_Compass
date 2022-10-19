@@ -12,7 +12,7 @@ durante esta sprint estudamos:
 - TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
 - Bibliotecas como Mocha e Chai
 
-Organizei os estudos por pastas onde:
+Organizei os estudos em pastas onde:
 
 - Exercicios Javascript: alguns exercícios desenvolvido durante o curso de Javascript 
 - javascript-koans-master: refatoração de testes automatizados
